@@ -1,4 +1,3 @@
-/* Estilo geral da página */
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f9;
@@ -9,7 +8,6 @@ body {
     margin: 0;
 }
 
-/* Estilo da caixa central (painel) */
 .painel {
     background-color: white;
     padding: 30px;
@@ -19,7 +17,6 @@ body {
     width: 300px;
 }
 
-/* Estilo dos campos de digitar (inputs) */
 input {
     width: 90%;
     padding: 10px;
@@ -28,7 +25,6 @@ input {
     border-radius: 5px;
 }
 
-/* Estilo do botão */
 button {
     background-color: #28a745;
     color: white;
